@@ -13,10 +13,10 @@
 <!--활동뱃지-->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=maker-ymc" alt="GitHub stats" width="300">
+    <img src="https://github-readme-stats.vercel.app/api?username=dev-cym" alt="GitHub stats" width="300">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maker-ymc&layout=compact" alt="GitHub stats" width="280">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cym&layout=compact" alt="GitHub stats" width="280">
   </a>
 </div>
 <!--end 활동뱃지-->
